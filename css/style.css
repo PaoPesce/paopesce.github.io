@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    font-size: 18px;
+    line-height: 1.2;
+    letter-spacing: 
+    5px;
+    color: whitesmoke;
+    background-color: #FBD2A8}
+    h1 {text-align: center; }
+    p {text-align: center;}
+    h2 {text-align: center;}
+    h3 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;
+    color: black;
+    display: flex; 
+    justify-content: space-evenly;}
